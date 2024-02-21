@@ -9,3 +9,10 @@ Also i will be uploading on youtube as well. My Youtube Channel is [here](https:
 
 > *commit hash:* [`eb2047fbfc22415785fd22d676252d2c01c7c738`](https://github.com/asilbek-0311/webdev_course/commit/eb2047fbfc22415785fd22d676252d2c01c7c738)    
  *description:* I have started the second section of the webdev course. I have learned about the basics of JavaScript. I have learned about the data types of JavaScript.
+
+
+## Day 11
+> *commit hash:* [`b59594de2f674106e511b1620a0e158d439ae6e5`](https://github.com/asilbek-0311/webdev_course/commit/b59594de2f674106e511b1620a0e158d439ae6e5)
+    *description:* I have finished the second section of the webdev course. I have learned about the functions and methods in JavaScript.
+
+> *description:* I have started learning about solidty. Watched part of the video from freeCodeCamp, adn read from a medium article about how to become an auditor in the blockchain.
