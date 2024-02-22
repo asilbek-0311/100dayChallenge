@@ -16,3 +16,11 @@ Also i will be uploading on youtube as well. My Youtube Channel is [here](https:
     *description:* I have finished the second section of the webdev course. I have learned about the functions and methods in JavaScript.
 
 > *description:* I have started learning about solidty. Watched part of the video from freeCodeCamp, adn read from a medium article about how to become an auditor in the blockchain.
+
+## Day 12
+> *commit hash:* [`ef3136a5564238913589ebadf69f5ec90c15a6ea`](https://github.com/asilbek-0311/webdev_course/commit/ef3136a5564238913589ebadf69f5ec90c15a6ea)
+    *description:* I have finished the second chapter of the Webdev course. I have learned the basics of javascript.
+
+> *description*: I have contiued learning about blockchain. Ihave learned about the whole mechanisms of Blockchain ad how it actually works. and i found Blockhcain demo tools really useful to understand the concept of blockchain.
+- Here is a link to the [blockchain demo](https://andersbrownworth.com/blockchain/)    
+- Here is another link to the [blockchain demo tool](https://blockchaindemo.io/)
