@@ -24,3 +24,10 @@ Also i will be uploading on youtube as well. My Youtube Channel is [here](https:
 > *description*: I have contiued learning about blockchain. Ihave learned about the whole mechanisms of Blockchain ad how it actually works. and i found Blockhcain demo tools really useful to understand the concept of blockchain.
 - Here is a link to the [blockchain demo](https://andersbrownworth.com/blockchain/)    
 - Here is another link to the [blockchain demo tool](https://blockchaindemo.io/)
+
+## Day 13
+> *commit hash:* [`4e87932fc20fdaad1f570ad96762180acabab3c9`](https://github.com/asilbek-0311/webdev_course/commit/4e87932fc20fdaad1f570ad96762180acabab3c9)
+    *description:* I have started the third chapter of the Webdev course. I have learned about the basics of HTML.
+
+> *commit hash:* [`ccdd121b0ec839f1c5e89547f7e1138ac3b6d399`](https://github.com/asilbek-0311/webdev_course/commit/ccdd121b0ec839f1c5e89547f7e1138ac3b6d399)
+    *description:* iI have finished the second part of the third chapter of the Webdev course. I have learned about the basics of CSS.
