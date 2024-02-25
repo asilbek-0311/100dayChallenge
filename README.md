@@ -31,3 +31,10 @@ Also i will be uploading on youtube as well. My Youtube Channel is [here](https:
 
 > *commit hash:* [`ccdd121b0ec839f1c5e89547f7e1138ac3b6d399`](https://github.com/asilbek-0311/webdev_course/commit/ccdd121b0ec839f1c5e89547f7e1138ac3b6d399)
     *description:* iI have finished the second part of the third chapter of the Webdev course. I have learned about the basics of CSS.
+
+## Day 14
+> *commit hash:* [`f64a7082df911a4829812af72dfcc03c99c42b6c9`](https://github.com/asilbek-0311/webdev_course/commit/64a7082df911a4829812af72dfcc03c99c42b6c9)
+    *description:* I have finished the third chapter of the Webdev course. Build the terrarium using HTML, CSS, and JavaScript. the elements are draggable and can be dropped into the terrarium. 
+
+> *commit hash:* [`b0d72d3478bca2e8f01c115b4989945510400c95`](https://github.com/asilbek-0311/webdev_course/commit/b0d72d3478bca2e8f01c115b4989945510400c95)
+    *description:* I have finished the third chapter of the Webdev course. I have learned about the basics of DOM and JS closures
