@@ -38,3 +38,8 @@ Also i will be uploading on youtube as well. My Youtube Channel is [here](https:
 
 > *commit hash:* [`b0d72d3478bca2e8f01c115b4989945510400c95`](https://github.com/asilbek-0311/webdev_course/commit/b0d72d3478bca2e8f01c115b4989945510400c95)
     *description:* I have finished the third chapter of the Webdev course. I have learned about the basics of DOM and JS closures
+
+## Day 15
+> *commit hash:* [`5d098eb8bfda68bb5e9cea45b007790443244bf5`](https://github.com/asilbek-0311/webdev_course/commit/5d098eb8bfda68bb5e9cea45b007790443244bf5)
+    *description:* I finished hte 4th chapter of webdev course. I have build a simple typing game using HTML, CSS, and JavaScript. I learned about DOM manipulation and event listeners.  
+    There are still some bugs in the game. I will fix them in the next commit.
