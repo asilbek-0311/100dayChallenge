@@ -43,3 +43,11 @@ Also i will be uploading on youtube as well. My Youtube Channel is [here](https:
 > *commit hash:* [`5d098eb8bfda68bb5e9cea45b007790443244bf5`](https://github.com/asilbek-0311/webdev_course/commit/5d098eb8bfda68bb5e9cea45b007790443244bf5)
     *description:* I finished hte 4th chapter of webdev course. I have build a simple typing game using HTML, CSS, and JavaScript. I learned about DOM manipulation and event listeners.  
     There are still some bugs in the game. I will fix them in the next commit.
+
+## Day 16
+> *commit hash:* [`83fb10be6d2a140c675cd424c8757f1e47537146`](https://github.com/asilbek-0311/webdev_course/commit/83fb10be6d2a140c675cd424c8757f1e47537146)
+    *description:* i have fixed the bugs on the game. it works properly now. The bug was on creating words, i used childNodes instead of children. That's why it was having problems with highlighting the next word. Also i have added some functions, like dispaling the message in model box, and diableing teh input field when the game is over.
+
+## Day 17
+> *commit hash:* [`4254a7403e6cefdfa6eca6163a778eee0d96555b'](https://github.com/asilbek-0311/webdev_course/commit/4254a7403e6cefdfa6eca6163a778eee0d96555b)
+    *description:* I have upded the css of the game, it look much better than the first time created. i learned a lot about the css, and i have improved my css skills as well.
