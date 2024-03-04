@@ -51,3 +51,7 @@ Also i will be uploading on youtube as well. My Youtube Channel is [here](https:
 ## Day 17
 > *commit hash:* [`4254a7403e6cefdfa6eca6163a778eee0d96555b'](https://github.com/asilbek-0311/webdev_course/commit/4254a7403e6cefdfa6eca6163a778eee0d96555b)
     *description:* I have upded the css of the game, it look much better than the first time created. i learned a lot about the css, and i have improved my css skills as well.
+
+## Day 18
+> *commit hash:* [`4d3aec2cc601c0b2958fee5bb6286cc6198b2140`](https://github.com/asilbek-0311/webdev_course/commit/4d3aec2cc601c0b2958fee5bb6286cc6198b2140)
+    *description:* I have started the 5th chapter of the webdev course. I have learned about the basics of the browser extension. I have built the simple borwser extension. But it has bugs. I have not tested them yet. I will fix them in the next commit.
