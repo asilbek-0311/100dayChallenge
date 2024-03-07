@@ -55,3 +55,12 @@ Also i will be uploading on youtube as well. My Youtube Channel is [here](https:
 ## Day 18
 > *commit hash:* [`4d3aec2cc601c0b2958fee5bb6286cc6198b2140`](https://github.com/asilbek-0311/webdev_course/commit/4d3aec2cc601c0b2958fee5bb6286cc6198b2140)
     *description:* I have started the 5th chapter of the webdev course. I have learned about the basics of the browser extension. I have built the simple borwser extension. But it has bugs. I have not tested them yet. I will fix them in the next commit.
+
+## Day 19
+> *commit hash:* [`7b73e0b63a8a651836607ea4e894e77d598cecdd`](https://github.com/asilbek-0311/webdev_course/commit/7b73e0b63a8a651836607ea4e894e77d598cecdd)
+    *description:* I ahve fixed the bugs ont eh browser extension. it works properly now. I have tested it on the browser. It works properly. I have learned about the basics of the browser extension. the bug was appareantly on the wsl i guess. once i changed it to the windows, it worked properly.
+
+## Day 20
+> *commit hash:* [`f9ee4f5ca672008cf10edcc9b3e9d9f007a69f03`](https://github.com/asilbek-0311/webdev_course/commit/f9ee4f5ca672008cf10edcc9b3e9d9f007a69f03)
+    *description:* I have completed 5th chapter of the webdev course. I have added some fucntions for backgound tasks. I will try to build a simple browser extention to improve my skill in woking with APIs.
+
